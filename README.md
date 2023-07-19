@@ -70,19 +70,19 @@ Sample univariate analysis visualization:
 
 1. Distribution of the target variable 'churn'
    
-![image](https://github.com/JaredBii/Phase-3-project-Customer-Churn-Prediction-for-SyriaTel/assets/29143340/09036c5c-fefc-44bd-8e47-87c654f62178)
+![image](https://github.com/Bree-hub/Phase-3-Project/blob/3033f9a66d19f88c7fbe072162841bd33cd5a6ac/Images/Churn%20Distribution.png)
 
 2. Distribution and potential outliers of the 'customer service calls' variable:
 
-![image](https://github.com/JaredBii/Phase-3-project-Customer-Churn-Prediction-for-SyriaTel/assets/29143340/6ba52c02-8de9-4622-b2bb-54a8ef35b33c)
+![image](https://github.com/Bree-hub/Phase-3-Project/blob/3033f9a66d19f88c7fbe072162841bd33cd5a6ac/Images/Box%20plot%20of%20customer%20service%20calls.png)
 
 3. Frequency of customers with and without the 'international plan':
 
-![image](https://github.com/JaredBii/Phase-3-project-Customer-Churn-Prediction-for-SyriaTel/assets/29143340/f41cf7a0-55b3-4848-96b1-4cb66b03f71b)
+![image](https://github.com/Bree-hub/Phase-3-Project/blob/3033f9a66d19f88c7fbe072162841bd33cd5a6ac/Images/Frequency%20of%20customers%20by%20International%20Calls.png)
 
 4. Distribution Plots for all features:
 
-![image](https://github.com/JaredBii/Phase-3-project-Customer-Churn-Prediction-for-SyriaTel/assets/29143340/2bfdb34c-ae9c-4804-9e48-1338079b201a)
+![image](https://github.com/Bree-hub/Phase-3-Project/blob/3033f9a66d19f88c7fbe072162841bd33cd5a6ac/Images/Distributions.png)
 
 ## Bivariate analysis
 Sample bivariate analysis done:
@@ -90,7 +90,7 @@ Sample bivariate analysis done:
 1. Correlation matrix
 
 
-![image](https://github.com/JaredBii/Phase-3-project-Customer-Churn-Prediction-for-SyriaTel/assets/29143340/8e147bb5-f3cd-4b20-b5d5-bb3e820b74d8)
+![image](https://github.com/Bree-hub/Phase-3-Project/blob/3033f9a66d19f88c7fbe072162841bd33cd5a6ac/Images/Correlation%20Matrix%20of%20SyriaTel%20Customer%20Churn%20data.png)
 
 
 ## Modelling
@@ -111,7 +111,7 @@ Logistic regression is a regression analysis technique that is specifically desi
 
 Overall, the observations reveal limitations in correctly identifying positive instances (low recall) and achieving a balanced precision and recall (low F1 score). Further analysis and model refinement may be necessary to enhance performance.
 
-![image](https://github.com/JaredBii/Phase-3-project-Customer-Churn-Prediction-for-SyriaTel/assets/29143340/4919ba18-4e2d-40e6-ab61-6a0716c033b2)
+![image](https://github.com/Bree-hub/Phase-3-Project/blob/3033f9a66d19f88c7fbe072162841bd33cd5a6ac/Images/Logistic%20Regression%20ROC%20Curve%20and%20Confusion%20Matrix.png)
 
 
 
@@ -132,7 +132,7 @@ The k-nearest neighbors (KNN) algorithm is a supervised machine learning method 
 
 Overall, the observations indicate that the KNN model may have limitations in correctly identifying positive instances (low recall), and its overall performance in terms of precision, recall, and discrimination ability is relatively poor. Further analysis and model refinement may be necessary to improve its performance.
 
-![image](https://github.com/JaredBii/Phase-3-project-Customer-Churn-Prediction-for-SyriaTel/assets/29143340/8affab65-a468-44a5-899e-527c96a7beb5)
+![image](https://github.com/Bree-hub/Phase-3-Project/blob/3033f9a66d19f88c7fbe072162841bd33cd5a6ac/Images/KNN%20Confusion%20Matrix.png)
 
 
 
@@ -153,7 +153,7 @@ Decision Trees (DTs) are a type of supervised learning technique used for classi
 
 Overall, the observations suggest that the decision tree model performs well in terms of accuracy, precision, recall, F1 score, and discrimination ability. However, further analysis and validation with additional evaluation metrics may be necessary to gain a more comprehensive understanding of the model's performance.
 
-![image](https://github.com/JaredBii/Phase-3-project-Customer-Churn-Prediction-for-SyriaTel/assets/29143340/9bb6d414-9247-4175-a1bc-b3b30edc7ad7)
+![image](https://github.com/Bree-hub/Phase-3-Project/blob/3033f9a66d19f88c7fbe072162841bd33cd5a6ac/Images/Decision%20Trees%20Confusion%20Matrix.png)
 
 
 ### Random Forests
@@ -173,7 +173,7 @@ Random Forests are machine learning algorithm used for both classification and r
 
 Overall, the observations suggest that the random forest model performs well in terms of accuracy and precision, indicating good overall predictions and accurate positive classifications. However, the model's performance in terms of recall and F1 score is relatively lower, suggesting room for improvement in correctly identifying positive instances and achieving a better balance between precision and recall.
 
-![image](https://github.com/JaredBii/Phase-3-project-Customer-Churn-Prediction-for-SyriaTel/assets/29143340/a769d165-32e0-4f8a-8e4b-2b927b9c0671)
+![image](https://github.com/Bree-hub/Phase-3-Project/blob/3033f9a66d19f88c7fbe072162841bd33cd5a6ac/Images/Random%20Forest%20Confusion%20Matrix.png)
 
 
 ## Results
@@ -192,7 +192,7 @@ Overall, the observations suggest that the random forest model performs well in 
 
 In summary, the Decision Tree and Random Forest models generally perform better across multiple evaluation metrics, including accuracy, precision, recall, F1 score, and ROC AUC score. Logistic Regression performs moderately, while KNN shows relatively lower performance in most of the evaluation metrics.
 
-![image](https://github.com/JaredBii/Phase-3-project-Customer-Churn-Prediction-for-SyriaTel/assets/29143340/e23d80e1-f0fd-48e4-b589-73ea54b7437b)
+![image](https://github.com/Bree-hub/Phase-3-Project/blob/3033f9a66d19f88c7fbe072162841bd33cd5a6ac/Images/ROC%20of%20all%20models.png)
 
 
 ### Feature Importance
@@ -206,7 +206,7 @@ In summary, the Decision Tree and Random Forest models generally perform better 
 
 Overall, the feature importance indicates that the amount of money a customer spends on their phone service is a strong predictor of whether they will churn. Other important factors include the number of customer service calls a customer makes and whether they have an international plan.
 
-![image](https://github.com/JaredBii/Phase-3-project-Customer-Churn-Prediction-for-SyriaTel/assets/29143340/2655d370-c458-4d13-b312-7107a86c3d82)
+![image](https://github.com/Bree-hub/Phase-3-Project/blob/3033f9a66d19f88c7fbe072162841bd33cd5a6ac/Images/ROC%20of%20all%20models.png)
 
 
 ## Conclusions

@@ -206,7 +206,7 @@ In summary, the Decision Tree and Random Forest models generally perform better 
 
 Overall, the feature importance indicates that the amount of money a customer spends on their phone service is a strong predictor of whether they will churn. Other important factors include the number of customer service calls a customer makes and whether they have an international plan.
 
-![image](https://github.com/Bree-hub/Phase-3-Project/blob/3033f9a66d19f88c7fbe072162841bd33cd5a6ac/Images/ROC%20of%20all%20models.png)
+![image](https://github.com/Bree-hub/Phase-3-Project/blob/1ddd3887e0b27ccebee049edf4331fceb379f9c1/Images/Feature%20Importance%20final.png)
 
 
 ## Conclusions

@@ -2,14 +2,12 @@
 
 * Student name: GROUP 9
 * Members: 
- 1. Peggy Obam
- 2. Rael Ndonye
- 3. Alan Omondi
- 4. Jackson Maina
- 5. Jared Bii
- 6. Brenda Kinoti
-
-* Student pace: part time  
+ 1. Brenda Kinoti
+ 2. Peggy Obam
+ 3. Rael Ndonye
+ 4. Alan Omondi
+ 5. Jackson Maina
+ 6. Jared Bii
 
 
 

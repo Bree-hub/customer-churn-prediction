@@ -1,16 +1,5 @@
 # Predicting Customer Churn for SyriaTel Telecommunications Company.
 
-* Student name: GROUP 9
-* Members: 
- 1. Brenda Kinoti
- 2. Peggy Obam
- 3. Rael Ndonye
- 4. Alan Omondi
- 5. Jackson Maina
- 6. Jared Bii
-
-
-
 ## Background
 
 Customer churn is one of the most important factors to consider in measuring any company's success or growth. By definition, customer churn refers to the percentage of customers that stopped using your product or service during a certain period of time. SyriaTel Telecommunications Company in a bid to measure its customer churn, identified the causes. Therefore using machine learning algorithmns, we can give the most accurate predictions for future predictions.
